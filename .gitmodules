@@ -1,0 +1,6 @@
+[submodule "controle-malote-frontend"]
+	path = controle-malote-frontend
+	url = https://github.com/HazielDiego/controle-malote-frontend.git
+[submodule "controle-malote-backend"]
+	path = controle-malote-backend
+	url = https://github.com/HazielDiego/controle-malote-backend.git
